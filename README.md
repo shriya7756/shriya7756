@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="./assets/rb-f1-car.jpg" width="360"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/F1_2022_Schmid_-_Red_Bull_Racing_RB18_-_Max_Verstappen_%282%29.jpg/640px-F1_2022_Schmid_-_Red_Bull_Racing_RB18_-_Max_Verstappen_%282%29.jpg" width="360"/>
 
 # ORACLE RED BULL RACING
 ### shriya7756 — Software Engineering Division // Car #77
 
-<img src="https://readme-typing-svg.demolab.com?font=Formula1&size=20&duration=3000&pause=800&color=1E3D8F&center=true&vCenter=true&width=600&lines=Pushing+code+at+F1+speed.+🏎️;Building+in+the+pit+lane...;No+DNFs+here+-+just+deploys." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Formula1&size=20&duration=3000&pause=800&color=1E3D8F&center=true&vCenter=true&width=600&lines=Pushing+code+at+F1+speed.+%F0%9F%8F%8E%EF%B8%8F;Building+in+the+pit+lane...;No+DNFs+here+-+just+deploys." alt="Typing SVG" />
 
 </div>
 
