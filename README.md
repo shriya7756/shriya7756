@@ -1,40 +1,90 @@
-### Hi there, I'm Shriya! 👋
+<div align="center">
 
-I'm a passionate software developer specializing in **Full-Stack Web Development** and **AI/ML Systems**. I love building intelligent, scalable applications that solve real-world problems.
+<img src="./assets/rb-f1-car.jpg" width="360"/>
 
-## 🚀 Current Focus
-I'm currently focused on exploring Retrieval-Augmented Generation (RAG), building AI-powered web applications, and refining my backend engineering skills.
+# ORACLE RED BULL RACING
+### shriya7756 — Software Engineering Division // Car #77
 
-## 🛠️ Tech Stack
-- **Languages:** Python, TypeScript, JavaScript, HTML/CSS
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express, REST APIs
-- **AI/ML:** LLM Integration, Prompt Engineering, RAG Architectures
+<img src="https://readme-typing-svg.demolab.com?font=Formula1&size=20&duration=3000&pause=800&color=1E3D8F&center=true&vCenter=true&width=600&lines=Pushing+code+at+F1+speed.+🏎️;Building+in+the+pit+lane...;No+DNFs+here+-+just+deploys." alt="Typing SVG" />
 
-## 🌟 Featured Projects
+</div>
 
-### 🏆 [ReportCraft](https://github.com/shriya7756/ReportCraft) (Flagship)
-**AI-Powered Research Platform**
-ReportCraft is an LLM-powered research platform that generates structured, Wikipedia-style articles from internet research. It features multi-perspective analysis and verifiable citations.
-- **Tech:** Next.js, Python, Cohere AI, LiteLLM
+---
 
-### 🎓 [Campus Connect](https://github.com/shriya7756/Mini-Project-CampusConnect)
-**Collaborative Student Platform**
-A full-stack application for students to share notes, exchange equipment, and engage in academic Q&A.
-- **Tech:** React, Vite, Node.js, Express, MongoDB
+## 🏁 RACE ENGINEER'S NOTES
 
-### 📓 [MindScribe](https://github.com/shriya7756/MindScribe-project)
-**Modern Journaling Application**
-A feature-rich digital journal with dark mode, rich text editing, and data visualization.
-- **Tech:** Next.js 15, TypeScript, Tailwind CSS, Radix UI
+```
+DRIVER      : shriya7756
+CAR         : #3
+TEAM        : Oracle Red Bull Racing (unofficial)
+BASE        : Milton Keynes, but make it dev-mode
+STATUS      : 🟢 On track
+```
 
-## 📊 GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shriya7756&show_icons=true&theme=radical&hide_border=true" alt="Shriya's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shriya7756&theme=radical&hide_border=true" alt="Shriya's GitHub streak" />
-</p>
+## 🔧 CAR SPECIFICATION — TECH STACK
 
+<div align="center">
 
-## 📫 Let's Connect!
-Looking for opportunities to collaborate on AI projects or full-stack applications. Feel free to reach out or explore my repositories!
+![Python](https://img.shields.io/badge/Python-1E3D8F?style=for-the-badge&logo=python&logoColor=FFC906)
+![TypeScript](https://img.shields.io/badge/TypeScript-0600EF?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-D50000?style=for-the-badge&logo=html5&logoColor=FFC906)
+![Jupyter](https://img.shields.io/badge/Jupyter-1E3D8F?style=for-the-badge&logo=jupyter&logoColor=FFC906)
+![CSS3](https://img.shields.io/badge/CSS3-0600EF?style=for-the-badge&logo=css3&logoColor=FFC906)
+
+</div>
+
+---
+
+## 📡 TELEMETRY — GITHUB STATS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shriya7756&show_icons=true&title_color=FFC906&text_color=FFFFFF&icon_color=D50000&bg_color=0600EF&border_color=FFC906" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriya7756&layout=compact&title_color=FFC906&text_color=FFFFFF&bg_color=0600EF&border_color=FFC906" width="45%" />
+
+<img src="https://streak-stats.demolab.com?user=shriya7756&background=0600EF&border=FFC906&stroke=FFC906&ring=D50000&fire=FFC906&currStreakLabel=FFFFFF" width="60%"/>
+
+</div>
+
+---
+
+## 🏎️ PIT STOP — FEATURED BUILDS
+
+<div align="center">
+
+<a href="https://github.com/shriya7756/ReportCraft">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shriya7756&repo=ReportCraft&title_color=FFC906&text_color=FFFFFF&icon_color=D50000&bg_color=0600EF&border_color=FFC906" />
+</a>
+<a href="https://github.com/shriya7756/Mini-Project-CampusConnect">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shriya7756&repo=Mini-Project-CampusConnect&title_color=FFC906&text_color=FFFFFF&icon_color=D50000&bg_color=0600EF&border_color=FFC906" />
+</a>
+
+</div>
+
+---
+
+## 🏆 SEASON STANDINGS
+
+| Metric | Value |
+|:--|:--:|
+| 🏁 Public repos | 36 |
+| 🌟 Followers | 16 |
+| 💬 Languages driven | 5 |
+| 📅 Team since | March 2025 |
+
+---
+
+## 📻 RADIO CHECK — CONNECT
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0600EF?style=for-the-badge&logo=linkedin&logoColor=FFC906)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-D50000?style=for-the-badge&logo=vercel&logoColor=FFC906)](#)
+
+</div>
+
+<div align="center">
+<sub>🏎️ "It's lights out and away we go." 🏁</sub>
+</div>
