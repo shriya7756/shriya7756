@@ -7,10 +7,9 @@ I'm currently focused on exploring Retrieval-Augmented Generation (RAG), buildin
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, TypeScript, JavaScript, HTML/CSS
-- **Frontend:** React, Next.js, Tailwind CSS, Shadcn UI
+- **Frontend:** React, Next.js, Tailwind CSS
 - **Backend:** Node.js, Express, REST APIs
 - **AI/ML:** LLM Integration, Prompt Engineering, RAG Architectures
-- **Tools:** Git, GitHub Actions, Vercel, Netlify
 
 ## 🌟 Featured Projects
 
