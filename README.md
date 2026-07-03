@@ -3,7 +3,7 @@
 <img src="https://images.unsplash.com/photo-1647427017058-202a0a2569f6?q=80&w=360&auto=format&fit=crop" width="360"/>
 
 # ORACLE RED BULL RACING
-### shriya7756 — Software Engineering Division // Car #77
+### shriya7756 — Software Engineering Division // Car #3
 
 <img src="https://readme-typing-svg.demolab.com?font=Formula1&size=20&duration=3000&pause=800&color=1E3D8F&center=true&vCenter=true&width=600&lines=Pushing+code+at+F1+speed.+%F0%9F%8F%8E%EF%B8%8F;Building+in+the+pit+lane...;No+DNFs+here+-+just+deploys." alt="Typing SVG" />
 
