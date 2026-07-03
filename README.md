@@ -31,9 +31,10 @@ A feature-rich digital journal with dark mode, rich text editing, and data visua
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shriya7756&show_icons=true&theme=radium&hide_border=true" alt="Shriya's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shriya7756&theme=radium&hide_border=true" alt="Shriya's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shriya7756&show_icons=true&theme=radical&hide_border=true" alt="Shriya's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shriya7756&theme=radical&hide_border=true" alt="Shriya's GitHub streak" />
 </p>
+
 
 ## 📫 Let's Connect!
 Looking for opportunities to collaborate on AI projects or full-stack applications. Feel free to reach out or explore my repositories!
