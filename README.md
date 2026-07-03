@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/F1_2022_Schmid_-_Red_Bull_Racing_RB18_-_Max_Verstappen_%282%29.jpg/640px-F1_2022_Schmid_-_Red_Bull_Racing_RB18_-_Max_Verstappen_%282%29.jpg" width="360"/>
+<img src="https://images.unsplash.com/photo-1647427017058-202a0a2569f6?q=80&w=360&auto=format&fit=crop" width="360"/>
 
 # ORACLE RED BULL RACING
 ### shriya7756 — Software Engineering Division // Car #77
@@ -41,8 +41,8 @@ STATUS      : 🟢 On track
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shriya7756&show_icons=true&title_color=FFC906&text_color=FFFFFF&icon_color=D50000&bg_color=0600EF&border_color=FFC906" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriya7756&layout=compact&title_color=FFC906&text_color=FFFFFF&bg_color=0600EF&border_color=FFC906" width="45%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shriya7756&show_icons=true&title_color=FFC906&text_color=FFFFFF&icon_color=D50000&bg_color=0600EF&border_color=FFC906" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shriya7756&layout=compact&title_color=FFC906&text_color=FFFFFF&bg_color=0600EF&border_color=FFC906" width="45%" />
 
 <img src="https://streak-stats.demolab.com?user=shriya7756&background=0600EF&border=FFC906&stroke=FFC906&ring=D50000&fire=FFC906&currStreakLabel=FFFFFF" width="60%"/>
 
@@ -55,10 +55,10 @@ STATUS      : 🟢 On track
 <div align="center">
 
 <a href="https://github.com/shriya7756/ReportCraft">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shriya7756&repo=ReportCraft&title_color=FFC906&text_color=FFFFFF&icon_color=D50000&bg_color=0600EF&border_color=FFC906" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shriya7756&repo=ReportCraft&title_color=FFC906&text_color=FFFFFF&icon_color=D50000&bg_color=0600EF&border_color=FFC906" />
 </a>
 <a href="https://github.com/shriya7756/Mini-Project-CampusConnect">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shriya7756&repo=Mini-Project-CampusConnect&title_color=FFC906&text_color=FFFFFF&icon_color=D50000&bg_color=0600EF&border_color=FFC906" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shriya7756&repo=Mini-Project-CampusConnect&title_color=FFC906&text_color=FFFFFF&icon_color=D50000&bg_color=0600EF&border_color=FFC906" />
 </a>
 
 </div>
