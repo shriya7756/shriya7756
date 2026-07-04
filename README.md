@@ -3,7 +3,7 @@
 <img src="./assets/rb-f1-car.jpg" width="360"/>
 
 # ORACLE RED BULL RACING
-### Shriya Pachunuri — Software Engineering Division // Car #77
+### Shriya Pachunuri — Software Engineering Division // Car #3
 
 <img src="https://readme-typing-svg.demolab.com?font=Formula1&size=20&duration=5000&pause=1200&color=1E90FF&center=true&vCenter=true&width=600&repeat=false&lines=Pushing+code+at+F1+speed.." alt="Typing SVG" />
 <img src="https://readme-typing-svg.demolab.com?font=Formula1&size=20&duration=5000&pause=1200&color=D50000&center=true&vCenter=true&width=600&repeat=false&lines=Building+the+pit+lane.." alt="Typing SVG" />
@@ -18,7 +18,7 @@
 | Field | Info |
 |:--|:--|
 | 🪪 DRIVER | Shriya Pachunuri |
-| 🚗 CAR No. | #77 |
+| 🚗 CAR No. | #3 |
 | 🏢 TEAM | Oracle Red Bull Racing (unofficial) |
 | 📍 BASE | Milton Keynes, but make it dev-mode |
 | 🟢 STATUS | On Track |
@@ -104,9 +104,9 @@
 
 | Pos | Repo | Points |
 |:--:|:--|:--:|
-| 🥇 P1 | [ReportCraft](https://github.com/shriya7756/ReportCraft) | 25 |
-| 🥈 P2 | [Mini-Project-CampusConnect](https://github.com/shriya7756/Mini-Project-CampusConnect) | 18 |
-| 🥉 P3 | [MindScribe-project](https://github.com/shriya7756/MindScribe-project) | 15 |
+| 🥇 P1 | [ReportCraft](https://github.com/shriya356/ReportCraft) | 25 |
+| 🥈 P2 | [Mini-Project-CampusConnect](https://github.com/shriya356/Mini-Project-CampusConnect) | 18 |
+| 🥉 P3 | [MindScribe-project](https://github.com/shriya356/MindScribe-project) | 15 |
 
 ---
 
@@ -114,10 +114,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shriya7756&show_icons=true&title_color=FFC906&text_color=FFFFFF&icon_color=D50000&bg_color=0600EF&border_color=FFC906" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriya7756&layout=compact&title_color=FFC906&text_color=FFFFFF&bg_color=0600EF&border_color=FFC906" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=shriya356&show_icons=true&title_color=FFC906&text_color=FFFFFF&icon_color=D50000&bg_color=0600EF&border_color=FFC906" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriya356&layout=compact&title_color=FFC906&text_color=FFFFFF&bg_color=0600EF&border_color=FFC906" width="45%" />
 
-<img src="https://streak-stats.demolab.com?user=shriya7756&background=0600EF&border=FFC906&stroke=FFC906&ring=D50000&fire=FFC906&currStreakLabel=FFFFFF" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=shriya356&background=0600EF&border=FFC906&stroke=FFC906&ring=D50000&fire=FFC906&currStreakLabel=FFFFFF" width="60%"/>
 
 </div>
 
@@ -127,11 +127,11 @@
 
 <div align="center">
 
-<a href="https://github.com/shriya7756/ReportCraft">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shriya7756&repo=ReportCraft&title_color=FFC906&text_color=FFFFFF&icon_color=D50000&bg_color=0600EF&border_color=FFC906" />
+<a href="https://github.com/shriya356/ReportCraft">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shriya356&repo=ReportCraft&title_color=FFC906&text_color=FFFFFF&icon_color=D50000&bg_color=0600EF&border_color=FFC906" />
 </a>
-<a href="https://github.com/shriya7756/Mini-Project-CampusConnect">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shriya7756&repo=Mini-Project-CampusConnect&title_color=FFC906&text_color=FFFFFF&icon_color=D50000&bg_color=0600EF&border_color=FFC906" />
+<a href="https://github.com/shriya356/Mini-Project-CampusConnect">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shriya356&repo=Mini-Project-CampusConnect&title_color=FFC906&text_color=FFFFFF&icon_color=D50000&bg_color=0600EF&border_color=FFC906" />
 </a>
 
 </div>
@@ -155,7 +155,7 @@
 <summary>📋 <b>Click to view the official report</b></summary>
 <br>
 
-**🚨 INCIDENT:** Driver #77 (Shriya Pachunuri) under investigation for repeated late-night commits and suspicious spikes in productivity during exam season.
+**🚨 INCIDENT:** Driver #3 (Shriya Pachunuri) under investigation for repeated late-night commits and suspicious spikes in productivity during exam season.
 
 **🔍 FINDINGS:** Telemetry confirms an 8-day active streak and 724 total contributions this season. No evidence of race-fixing. Driver appears to genuinely enjoy this.
 
