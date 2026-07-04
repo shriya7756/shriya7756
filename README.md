@@ -20,12 +20,12 @@
 
         DRIVER: SHRIYA PACHUNURI
         Car No. 77
-        Team: AI Engineering
+        Team: Full-Stack Web Development
 
-Pole Position        ★ 540 GitHub Stars
-Championship Points  2,300 Contributions
-Fastest Lap          112 Day Streak
-Constructors Points  48 Repositories
+Pole Position        ★ 12 GitHub Stars
+Championship Points  724 Contributions
+Fastest Lap          8 Day Streak
+Constructors Points  36 Repositories
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -33,28 +33,28 @@ Power Unit
 ██████████ Python
 
 ERS
-██████████ FastAPI
+██████████ TypeScript
 
 Tyres
 Soft  → React
-Medium→ MongoDB
-Hard  → Java
+Medium→ Next.js
+Hard  → Node.js
 
 Race Telemetry
 📈 Contribution Graph
 
 Pit Crew
-Docker
-GitHub Actions
-Linux
+React
+Express
+MongoDB
 
 Sponsors
-OpenCV • TensorFlow • PyTorch • LangChain
+TailwindCSS • Cohere AI • LiteLLM • Next.js
 
 Current Season
-🏎 Building AI systems
-🏁 Solving LeetCode
-🚦 Looking for SDE Internships
+🏎 Building AI systems (ReportCraft)
+🏁 Learning RAG Architectures
+🚦 Open to Collaboration
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
