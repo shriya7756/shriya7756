@@ -13,27 +13,51 @@
 
 ## 🏁 RACE ENGINEER'S NOTES
 
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        ORACLE RED BULL RACING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+        DRIVER: SHRIYA PACHUNURI
+        Car No. 77
+        Team: AI Engineering
+
+Pole Position        ★ 540 GitHub Stars
+Championship Points  2,300 Contributions
+Fastest Lap          112 Day Streak
+Constructors Points  48 Repositories
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Power Unit
+██████████ Python
+
+ERS
+██████████ FastAPI
+
+Tyres
+Soft  → React
+Medium→ MongoDB
+Hard  → Java
+
+Race Telemetry
+📈 Contribution Graph
+
+Pit Crew
+Docker
+GitHub Actions
+Linux
+
+Sponsors
+OpenCV • TensorFlow • PyTorch • LangChain
+
+Current Season
+🏎 Building AI systems
+🏁 Solving LeetCode
+🚦 Looking for SDE Internships
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
-DRIVER      : shriya7756
-CAR         : #3
-TEAM        : Oracle Red Bull Racing (unofficial)
-BASE        : Milton Keynes, but make it dev-mode
-STATUS      : 🟢 On track
-```
-
----
-
-## 🔧 CAR SPECIFICATION — TECH STACK
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-1E3D8F?style=for-the-badge&logo=python&logoColor=FFC906)
-![TypeScript](https://img.shields.io/badge/TypeScript-0600EF?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-D50000?style=for-the-badge&logo=html5&logoColor=FFC906)
-![Jupyter](https://img.shields.io/badge/Jupyter-1E3D8F?style=for-the-badge&logo=jupyter&logoColor=FFC906)
-![CSS3](https://img.shields.io/badge/CSS3-0600EF?style=for-the-badge&logo=css3&logoColor=FFC906)
-
-</div>
 
 ---
 
@@ -62,17 +86,6 @@ STATUS      : 🟢 On track
 </a>
 
 </div>
-
----
-
-## 🏆 SEASON STANDINGS
-
-| Metric | Value |
-|:--|:--:|
-| 🏁 Public repos | 36 |
-| 🌟 Followers | 16 |
-| 💬 Languages driven | 5 |
-| 📅 Team since | March 2025 |
 
 ---
 
