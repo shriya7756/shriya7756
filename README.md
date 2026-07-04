@@ -114,10 +114,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shriya356&show_icons=true&title_color=FFC906&text_color=FFFFFF&icon_color=D50000&bg_color=0600EF&border_color=FFC906" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriya356&layout=compact&title_color=FFC906&text_color=FFFFFF&bg_color=0600EF&border_color=FFC906" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=shriya356&show_icons=true&title_color=FFC906&text_color=FFFFFF&icon_color=D50000&bg_color=0600EF&border_color=FFC906&cache_seconds=86400" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriya356&layout=compact&title_color=FFC906&text_color=FFFFFF&bg_color=0600EF&border_color=FFC906&cache_seconds=86400" width="45%" />
 
-<img src="https://streak-stats.demolab.com?user=shriya356&background=0600EF&border=FFC906&stroke=FFC906&ring=D50000&fire=FFC906&currStreakLabel=FFFFFF" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=shriya356&background=0600EF&border=FFC906&stroke=FFC906&ring=D50000&fire=FFC906&currStreakLabel=FFFFFF&cache_seconds=86400" width="60%"/>
 
 </div>
 
@@ -128,10 +128,10 @@
 <div align="center">
 
 <a href="https://github.com/shriya356/ReportCraft">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shriya356&repo=ReportCraft&title_color=FFC906&text_color=FFFFFF&icon_color=D50000&bg_color=0600EF&border_color=FFC906" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shriya356&repo=ReportCraft&title_color=FFC906&text_color=FFFFFF&icon_color=D50000&bg_color=0600EF&border_color=FFC906&cache_seconds=86400" />
 </a>
 <a href="https://github.com/shriya356/Mini-Project-CampusConnect">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shriya356&repo=Mini-Project-CampusConnect&title_color=FFC906&text_color=FFFFFF&icon_color=D50000&bg_color=0600EF&border_color=FFC906" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shriya356&repo=Mini-Project-CampusConnect&title_color=FFC906&text_color=FFFFFF&icon_color=D50000&bg_color=0600EF&border_color=FFC906&cache_seconds=86400" />
 </a>
 
 </div>
