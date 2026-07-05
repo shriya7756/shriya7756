@@ -65,7 +65,7 @@
 
 | Compound | Meaning | Skills |
 |:--:|:--|:--|
-| 🔴 SOFT | Learning now — fast but early laps | Rust, System Design |
+| 🔴 SOFT | Learning now — fast but early laps | System Design |
 | 🟡 MEDIUM | Comfortable pace | TypeScript, SQL, HTML/CSS |
 | ⚪ HARD | Rock solid, race-distance proven | Python, Git, Debugging |
 
@@ -100,11 +100,12 @@
 
 ## 🏆 CHAMPIONSHIP STANDINGS — TOP REPOS
 
-| Pos | Repo | Points |
-|:--:|:--|:--:|
-| 🥇 P1 | [ReportCraft](https://github.com/shriya7756/ReportCraft) | 25 |
-| 🥈 P2 | [sonicx-platform](https://github.com/shriya7756/sonicx-platform) | 18 |
-| 🥉 P3 | [Mini-Project-CampusConnect](https://github.com/shriya7756/Mini-Project-CampusConnect) | 15 |
+| Pos | Repo | Points | Description | Live Site |
+|:--:|:--|:--:|:--:|
+| 🥇 P1 | [ReportCraft](https://github.com/shriya7756/ReportCraft) | 25 | AI-powered research platform | [Live Site](https://reportcraft.netlify.app/) |
+| 🥈 P2 | [sonicx-platform](https://github.com/shriya7756/sonicx-platform) | 18 | AI-driven emergency management & crowd monitoring | [Video Demo](https://drive.google.com/file/d/1BhSrJDvny0EdhepXKZuyf_NEfd5OnvOA/view) |
+| 🥉 P3 | [Mini-Project-CampusConnect](https://github.com/shriya7756/Mini-Project-CampusConnect) | 15 | [Live Site](https://campusconnectx.netlify.app/) |
+
 
 ---
 
@@ -125,10 +126,10 @@
 
 | Project | Description | Live Site |
 |:---|:---|:---|
-| [ReportCraft](https://github.com/shriya7756/ReportCraft) | AI-powered research platform | [Live Demo](https://reportcraft.netlify.app/) |
+| [ReportCraft](https://github.com/shriya7756/ReportCraft) | AI-powered research platform | [Live Site](https://reportcraft.netlify.app/) |
 | [Sonicx Platform](https://github.com/shriya7756/sonicx-platform) | AI-driven emergency management & crowd monitoring | [Video Demo](https://drive.google.com/file/d/1BhSrJDvny0EdhepXKZuyf_NEfd5OnvOA/view) |
-| [CampusConnect](https://github.com/shriya7756/Mini-Project-CampusConnect) | Collaborative student platform | [Live Demo](https://campusconnectx.netlify.app/) |
-| [MindScribe](https://github.com/shriya7756/MindScribe-project) | Modern digital journaling app | [Link Pending]() |
+| [CampusConnect](https://github.com/shriya7756/Mini-Project-CampusConnect) | Collaborative student platform | [Live Site](https://campusconnectx.netlify.app/) |
+| [MindScribe](https://github.com/shriya7756/MindScribe-project) | Modern digital journaling app | [Link Soon]() |
 
 ---
 
