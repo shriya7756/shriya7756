@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/rb-f1-car.jpg" width="360"/>
-
 # ORACLE RED BULL RACING
 ### Shriya Pachunuri — Software Engineering Division // Car #3
 
@@ -114,8 +112,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shriya7756&show_icons=true&title_color=FFC906&text_color=FFFFFF&icon_color=D50000&bg_color=0600EF&border_color=FFC906&cache_seconds=86400" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriya7756&layout=compact&title_color=FFC906&text_color=FFFFFF&bg_color=0600EF&border_color=FFC906&cache_seconds=86400" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=shriya7756&show_icons=true&theme=radical&v=2" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriya7756&layout=compact&theme=radical&v=2" width="45%" />
 
 <img src="https://streak-stats.demolab.com?user=shriya7756&background=0600EF&border=FFC906&stroke=FFC906&ring=D50000&fire=FFC906&currStreakLabel=FFFFFF&cache_seconds=86400" width="60%"/>
 
@@ -125,16 +123,13 @@
 
 ## 🏎️ PIT STOP — FEATURED BUILDS
 
-<div align="center">
-
-<a href="https://github.com/shriya7756/ReportCraft">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shriya7756&repo=ReportCraft&title_color=FFC906&text_color=FFFFFF&icon_color=D50000&bg_color=0600EF&border_color=FFC906&cache_seconds=86400" />
-</a>
-<a href="https://github.com/shriya7756/Mini-Project-CampusConnect">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shriya7756&repo=Mini-Project-CampusConnect&title_color=FFC906&text_color=FFFFFF&icon_color=D50000&bg_color=0600EF&border_color=FFC906&cache_seconds=86400" />
-</a>
-
-</div>
+| Project | Description | Live Site |
+|:---|:---|:---|
+| [ReportCraft](https://github.com/shriya7756/ReportCraft) | AI-powered research platform | [Link Pending]() |
+| [CampusConnect](https://github.com/shriya7756/Mini-Project-CampusConnect) | Collaborative student platform | [Link Pending]() |
+| [MindScribe](https://github.com/shriya7756/MindScribe-project) | Modern digital journaling app | [Link Pending]() |
+| [FabQuiz](https://github.com/shriya7756/FabQuiz-app) | Interactive quiz application | [Link Pending]() |
+| [Sonicx Platform](https://github.com/shriya7756/sonicx-platform) | AI-driven emergency management & crowd monitoring | [Link Pending]() |
 
 ---
 
