@@ -129,7 +129,7 @@
 | [ReportCraft](https://github.com/shriya7756/ReportCraft) | AI-powered research platform | [Live Site](https://reportcraft.netlify.app/) |
 | [Sonicx Platform](https://github.com/shriya7756/sonicx-platform) | AI-driven emergency management & crowd monitoring | [Video Demo](https://drive.google.com/file/d/1BhSrJDvny0EdhepXKZuyf_NEfd5OnvOA/view) |
 | [CampusConnect](https://github.com/shriya7756/Mini-Project-CampusConnect) | Collaborative student platform | [Live Site](https://campusconnectx.netlify.app/) |
-| [MindScribe](https://github.com/shriya7756/MindScribe-project) | Modern digital journaling app | [Live Site](https://mindscribe-journal.netlify.app/budget) |
+| [MindScribe](https://github.com/shriya7756/MindScribe-project) | Modern digital journaling app | [Live Site](https://mindscribe-journal.netlify.app/) |
 
 ---
 
