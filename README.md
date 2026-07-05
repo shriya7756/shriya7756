@@ -103,8 +103,8 @@
 | Pos | Repo | Points |
 |:--:|:--|:--:|
 | 🥇 P1 | [ReportCraft](https://github.com/shriya7756/ReportCraft) | 25 |
-| 🥈 P2 | [Mini-Project-CampusConnect](https://github.com/shriya7756/Mini-Project-CampusConnect) | 18 |
-| 🥉 P3 | [MindScribe-project](https://github.com/shriya7756/MindScribe-project) | 15 |
+| 🥈 P2 | [sonicx-platform](https://github.com/shriya7756/sonicx-platform) | 18 |
+| 🥉 P3 | [Mini-Project-CampusConnect](https://github.com/shriya7756/Mini-Project-CampusConnect) | 15 |
 
 ---
 
@@ -125,11 +125,10 @@
 
 | Project | Description | Live Site |
 |:---|:---|:---|
-| [ReportCraft](https://github.com/shriya7756/ReportCraft) | AI-powered research platform | [Link Pending]() |
-| [CampusConnect](https://github.com/shriya7756/Mini-Project-CampusConnect) | Collaborative student platform | [Link Pending]() |
+| [ReportCraft](https://github.com/shriya7756/ReportCraft) | AI-powered research platform | [Live Demo](https://reportcraft.netlify.app/) |
+| [Sonicx Platform](https://github.com/shriya7756/sonicx-platform) | AI-driven emergency management & crowd monitoring | [Video Demo](https://drive.google.com/file/d/1BhSrJDvny0EdhepXKZuyf_NEfd5OnvOA/view) |
+| [CampusConnect](https://github.com/shriya7756/Mini-Project-CampusConnect) | Collaborative student platform | [Live Demo](https://campusconnectx.netlify.app/) |
 | [MindScribe](https://github.com/shriya7756/MindScribe-project) | Modern digital journaling app | [Link Pending]() |
-| [FabQuiz](https://github.com/shriya7756/FabQuiz-app) | Interactive quiz application | [Link Pending]() |
-| [Sonicx Platform](https://github.com/shriya7756/sonicx-platform) | AI-driven emergency management & crowd monitoring | [Link Pending]() |
 
 ---
 
